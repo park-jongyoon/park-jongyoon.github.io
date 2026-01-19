@@ -16,17 +16,18 @@ College of Arts and Sciences, B.S. in Statistics and Analytics (Expected May 202
 
 ## Work Experience
 
-### UNC Football — Recruiting & Scouting Intern
-**Dates:** ____ 20__ – ____ 20__  
-- Owned: ____ (what you were responsible for)
-- Built/analyzed: ____ (methods/tools: Python/SQL/Excel/etc.)
-- Delivered: ____ (reports/dashboards/PDFs); impact: ____ (time saved, better decisions, etc.)
-
-### UNC Women’s Basketball — Analytics Assistant
-**Dates:** ____ 20__ – Present (or ____ 20__)  
-- Analyzed: ____ (what data / what question)
-- Modeled/tested: ____ (methods)
-- Communicated: ____ (stakeholders); impact: ____
+### Analytics Assistant - UNC Women’s Basketball
+**Dates:** September 2025 – Present
+- Produced game-specific scouting reports based on Synergy and Sports Reference, delivering visual analyses of tactics, efficiency, and player profiles to inform pre-game contingencies
+- Captured live game data and built key-metric dashboards to provide immediate insights on team performance and matchups, supporting in-game strategy
+### Scouting & Recruiting Intern - UNC Football
+**Dates:** August 2025 – Present 
+- Used Hudl to collect and clean game video/tracking data, producing recruiting cut-ups and analysis film
+- Designed and applied position-specific evaluation criteria and delivered player assessment reports and presentations to support prospect selection decisions
+### Match Operation Intern
+**Dates:** August 2025 – Present 
+- Used Hudl to collect and clean game video/tracking data, producing recruiting cut-ups and analysis film
+- Designed and applied position-specific evaluation criteria and delivered player assessment reports and presentations to support prospect selection decisions
 
 ---
 
