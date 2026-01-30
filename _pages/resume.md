@@ -7,7 +7,7 @@ author_profile: false
 
 ## Jongyoon Park Resume
 
-<a class="btn btn--primary" href="/assets/pdf/Jongyoon_Park_Resume.pdf" target="_blank" rel="noopener">
+<a class="btn btn--primary" href="/assets/pdf/Jongyoon_Park_Resume.pdf" download>
   Download PDF
 </a>
 
