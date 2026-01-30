@@ -5,14 +5,16 @@ layout: single
 author_profile: false
 ---
 
-Below are selected PDF deliverables. Click any preview to open the full report in a new tab.
+Below are selected project deliverables (PDF). Click any preview to open the full report in a new tab.
 
 <div class="portfolio-grid">
 
   <!-- 1) From NCAA to NBA -->
-  <a class="portfolio-card" href="/assets/pdf/from_ncaa_to_nba_what_translates.pdf" target="_blank" rel="noopener">
+  <a class="portfolio-card" href="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf" target="_blank" rel="noopener">
     <div class="portfolio-thumb">
-      <iframe class="portfolio-iframe" src="/assets/pdf/from_ncaa_to_nba_what_translates.pdf#page=1&view=FitH" title="From NCAA to NBA: What Translates to Pro Success"></iframe>
+      <iframe class="portfolio-iframe"
+        src="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf#page=1&amp;view=FitH"
+        title="From NCAA to NBA_What Translates to Pro Success"></iframe>
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">From NCAA to NBA_What Translates to Pro Success</div>
@@ -20,10 +22,12 @@ Below are selected PDF deliverables. Click any preview to open the full report i
     </div>
   </a>
 
-  <!-- 2) Pre Game -->
-  <a class="portfolio-card" href="/assets/pdf/unc_wbb_pregame_analytics_report_sample.pdf" target="_blank" rel="noopener">
+  <!-- 2) UNC WBB Pre Game Analytics Report (Sample) -->
+  <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Pre%20Game%20Analytics%20Report%20%28Sample%29.pdf" target="_blank" rel="noopener">
     <div class="portfolio-thumb">
-      <iframe class="portfolio-iframe" src="/assets/pdf/unc_wbb_pregame_analytics_report_sample.pdf#page=1&view=FitH" title="UNC WBB Pre Game Analytics Report (Sample)"></iframe>
+      <iframe class="portfolio-iframe"
+        src="/assets/pdf/UNC%20WBB%20Pre%20Game%20Analytics%20Report%20%28Sample%29.pdf#page=1&amp;view=FitH"
+        title="UNC WBB Pre Game Analytics Report (Sample)"></iframe>
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Pre Game Analytics Report (Sample)</div>
@@ -31,10 +35,12 @@ Below are selected PDF deliverables. Click any preview to open the full report i
     </div>
   </a>
 
-  <!-- 3) Early Look -->
-  <a class="portfolio-card" href="/assets/pdf/unc_wbb_early_look_report_sample.pdf" target="_blank" rel="noopener">
+  <!-- 3) UNC WBB Early Look Report (Sample) -->
+  <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Early%20Look%20Report%20%28Sample%29.pdf" target="_blank" rel="noopener">
     <div class="portfolio-thumb">
-      <iframe class="portfolio-iframe" src="/assets/pdf/unc_wbb_early_look_report_sample.pdf#page=1&view=FitH" title="UNC WBB Early Look Report (Sample)"></iframe>
+      <iframe class="portfolio-iframe"
+        src="/assets/pdf/UNC%20WBB%20Early%20Look%20Report%20%28Sample%29.pdf#page=1&amp;view=FitH"
+        title="UNC WBB Early Look Report (Sample)"></iframe>
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Early Look Report (Sample)</div>
@@ -42,10 +48,12 @@ Below are selected PDF deliverables. Click any preview to open the full report i
     </div>
   </a>
 
-  <!-- 4) Postgame -->
-  <a class="portfolio-card" href="/assets/pdf/unc_wbb_postgame_rotation_impact_analysis_sample.pdf" target="_blank" rel="noopener">
+  <!-- 4) UNC WBB Postgame Report_Rotation Impact Analysis (Sample) -->
+  <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Postgame%20Report_Rotation%20Impact%20Analysis%20%28Sample%29.pdf" target="_blank" rel="noopener">
     <div class="portfolio-thumb">
-      <iframe class="portfolio-iframe" src="/assets/pdf/unc_wbb_postgame_rotation_impact_analysis_sample.pdf#page=1&view=FitH" title="UNC WBB Postgame Report_Rotation Impact Analysis (Sample)"></iframe>
+      <iframe class="portfolio-iframe"
+        src="/assets/pdf/UNC%20WBB%20Postgame%20Report_Rotation%20Impact%20Analysis%20%28Sample%29.pdf#page=1&amp;view=FitH"
+        title="UNC WBB Postgame Report_Rotation Impact Analysis (Sample)"></iframe>
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Postgame Report_Rotation Impact Analysis (Sample)</div>
