@@ -18,7 +18,7 @@ Below are selected project deliverables (PDF). Click any preview to open the ful
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">From NCAA to NBA_What Translates to Pro Success</div>
-      <div class="portfolio-desc">[Add a 1–2 sentence description here.]</div>
+      <div class="portfolio-desc">A college-to-pro basketball translation study using linked NCAA–NBA data. Looking at which college indicators, including player tools, scoring profile, role, and program context, best predict early NBA impact.</div>
     </div>
   </a>
 
