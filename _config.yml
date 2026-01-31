@@ -45,7 +45,7 @@ plugins:
 author:
   name   : "Jongyoon Park"
   avatar : "/assets/images/JongyoonPark_Headshot.jpg"
-  bio    : "Recruiting & Scouting Intern, UNC Football<br>Analytics Assistant, UNC Women’s Basketball"
+  bio    : "Recruiting & Scouting Intern, UNC Football<br>Analytics Assistant, UNC Women’s Basketball<br>Undergraduate student majoring in Statistics & Analytics at UNC Chapel Hill"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
