@@ -14,7 +14,7 @@ Below are selected project deliverables (PDF). Click any preview to open the ful
     <div class="portfolio-thumb">
       <iframe class="portfolio-iframe"
         src="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf#page=1&amp;view=FitH"
-        title="From NCAA to NBA : What Translates to Pro Success"></iframe>
+        title="From NCAA to NBA: What Translates to Pro Success"></iframe>
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">From NCAA to NBA_What Translates to Pro Success</div>
