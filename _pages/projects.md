@@ -57,7 +57,7 @@ Below are selected project deliverables (PDF). Click any preview to open the ful
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Postgame Report_Rotation Impact Analysis (Sample)</div>
-      <div class="portfolio-desc">A postgame report that evaluates player on-court impact and lineup combination synergy from the UNC WBB game. It presents individual and group on-court metrics and margin-based results. First-half metrics are delivered to the team at halftime to support second-half strategy decisions.</div>
+      <div class="portfolio-desc">A postgame report for a UNC WBB game that quantifies player impact and lineup synergy. It delivers individual and group on-court metrics and margins, and provides first-half results at halftime to support second-half strategy decisions.</div>
     </div>
   </a>
 
