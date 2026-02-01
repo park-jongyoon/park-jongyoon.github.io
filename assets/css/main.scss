@@ -16,16 +16,20 @@ $max-width: 1500px;
 }
 
 .pdf-wrap {
-  margin-top: 14px;
+  max-width: 950px;        
+  margin: 14px auto 0;    
   border: 1px solid rgba(0,0,0,0.08);
   border-radius: 10px;
   overflow: hidden;
+  background: #fff;       
 }
 
 .pdf-iframe {
-  width: 100% !important;
-  height: 1400px !important;
-  border: 0 !important;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8.5 / 11; 
+  border: 0;
+  display: block;
 }
 
 
