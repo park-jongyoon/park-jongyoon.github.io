@@ -31,7 +31,7 @@ Below are selected project deliverables (PDF). Click any preview to open the ful
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Pre Game Analytics Report (Sample)</div>
-      <div class="portfolio-desc">[Add a 1–2 sentence description here.]</div>
+      <div class="portfolio-desc">A report designed to support UNC WBB’s game preparation and opponent scouting. Covers key team statistics, play-type offensive and defensive analysis for the upcoming matchup, and data-driven profiles of the opponent’s key players, highlighting play style and performance.</div>
     </div>
   </a>
 
