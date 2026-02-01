@@ -44,7 +44,7 @@ Below are selected project deliverables (PDF). Click any preview to open the ful
     </div>
     <div class="portfolio-meta">
       <div class="portfolio-title">UNC WBB Early Look Report (Sample)</div>
-      <div class="portfolio-desc">[Add a 1–2 sentence description here.]</div>
+      <div class="portfolio-desc">A scouting report provides UNC WBB an early, concise overview of its scheduled opponent. Summarizes team performance and strengths and weaknesses, projects key offensive/defensive efficiencies in a matchup context against UNC.</div>
     </div>
   </a>
 
