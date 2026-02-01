@@ -1,6 +1,6 @@
 main:
-- title: "Involvement"
-  url: /involvement/
+  - title: "Involvement"
+    url: /involvement/
   - title: "Projects"
     url: /projects/
   - title: "Resume"
