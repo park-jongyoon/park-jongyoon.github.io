@@ -14,7 +14,7 @@ author_profile: false
 <div class="pdf-wrap">
   <iframe
     class="pdf-iframe"
-    src="/assets/pdf/Jongyoon_Park_Resume.pdf#view=FitH"
+    src="/assets/pdf/Jongyoon_Park_Resume.pdf#page=1&zoom=page-fit"
     title="Jongyoon Park Resume PDF"
   ></iframe>
 </div>
