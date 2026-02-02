@@ -7,7 +7,7 @@ classes: wide
 
 header:
   overlay_color: "#7BAFD4"
-excerpt: "Selected PDF deliverables; scouting reports and analytics work."
+excerpt: "Selected career-related deliverables — scouting and analytics reports."
 ---
 
 <div class="inv-container">
