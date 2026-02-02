@@ -64,7 +64,7 @@ $max-width: 1500px;
 .portfolio-thumb {
   position: relative;
   width: 100%;
-  aspect-ratio: 8.5 / 11; 
+  aspect-ratio: 210 / 297;
   background: #f7f7f7;
   overflow: hidden;
 }
@@ -176,4 +176,19 @@ $max-width: 1500px;
   font-size: 0.95rem;
   line-height: 1.45;
   color: rgba(0,0,0,0.75);
+}
+
+@media (max-width: 700px) {
+  .portfolio-thumb {
+    max-width: 520px;
+    margin: 0 auto;
+    background: #fff;
+  }
+
+  .portfolio-iframe {
+    width: 108%;
+    height: 108%;
+    transform: scale(0.92);
+    transform-origin: 0 0;
+  }
 }
