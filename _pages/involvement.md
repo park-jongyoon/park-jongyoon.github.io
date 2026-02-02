@@ -46,9 +46,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
         <li>Strengthened detail-oriented budgeting skills through cost estimation and accounting management for trips and fundraising.</li>
       </ul>
     </div>
-
-    <p class="inv-sub">Student analytics work; coding workshops; web development contribution.</p>
-
+    
     <!-- Optional image -->
     <!-- <img src="/assets/images/involvement/psu-analytics.jpg" class="inv-photo" alt="Analytics"> -->
 
