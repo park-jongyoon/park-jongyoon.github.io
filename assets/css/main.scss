@@ -192,3 +192,37 @@ $max-width: 1500px;
     transform-origin: 0 0;
   }
 }
+
+.page__hero--overlay .page__lead {
+  max-width: none;
+}
+
+@media (min-width: 901px) {
+  .page__hero--overlay .page__lead {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 900px) {
+  .page__hero--overlay .page__lead {
+    white-space: normal;
+  }
+}
+
+.page__hero--overlay .page__lead {
+  max-width: none;
+}
+
+@media (min-width: 901px) {
+  .page__hero--overlay .page__lead {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 900px) {
+  .page__hero--overlay .page__lead {
+    white-space: normal;
+  }
+}
+
+
