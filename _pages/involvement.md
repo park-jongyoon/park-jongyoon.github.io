@@ -7,7 +7,7 @@ classes: wide
 
 header:
   overlay_color: "#7BAFD4"
-excerpt: "Campus leadership, analytics communities, and volunteering."
+excerpt: "Campus and community involvement beyond my work experience."
 ---
 
 <div class="inv-container">
