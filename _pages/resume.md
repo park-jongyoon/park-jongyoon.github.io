@@ -7,7 +7,7 @@ classes: wide
 
 header:
   overlay_color: "#7BAFD4"
-excerpt: "One-page resume; PDF preview and download."
+excerpt: "My resume updated as of February 2026."
 ---
 
 <div class="inv-container">
