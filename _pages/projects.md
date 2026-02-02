@@ -23,7 +23,7 @@ excerpt: "Selected PDF deliverables; scouting reports and analytics work."
     <a class="portfolio-card" href="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf" target="_blank" rel="noopener">
       <div class="portfolio-thumb">
         <iframe class="portfolio-iframe"
-          src="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf#page=1&amp;view=FitH"
+          src="/assets/pdf/From%20NCAA%20to%20NBA_What%20Translates%20to%20Pro%20Success.pdf#page=1&amp;zoom=page-fit"
           title="From NCAA to NBA: What Translates to Pro Success"></iframe>
       </div>
       <div class="portfolio-meta">
@@ -36,7 +36,7 @@ excerpt: "Selected PDF deliverables; scouting reports and analytics work."
     <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Pre%20Game%20Analytics%20Report%20%28Sample%29.pdf" target="_blank" rel="noopener">
       <div class="portfolio-thumb">
         <iframe class="portfolio-iframe"
-          src="/assets/pdf/UNC%20WBB%20Pre%20Game%20Analytics%20Report%20%28Sample%29.pdf#page=1&amp;view=FitH"
+          src="/assets/pdf/UNC%20WBB%20Pre%20Game%20Analytics%20Report%20%28Sample%29.pdf#page=1&amp;zoom=page-fit"
           title="UNC WBB Pre Game Analytics Report (Sample)"></iframe>
       </div>
       <div class="portfolio-meta">
@@ -49,7 +49,7 @@ excerpt: "Selected PDF deliverables; scouting reports and analytics work."
     <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Early%20Look%20Report%20%28Sample%29.pdf" target="_blank" rel="noopener">
       <div class="portfolio-thumb">
         <iframe class="portfolio-iframe"
-          src="/assets/pdf/UNC%20WBB%20Early%20Look%20Report%20%28Sample%29.pdf#page=1&amp;view=FitH"
+          src="/assets/pdf/UNC%20WBB%20Early%20Look%20Report%20%28Sample%29.pdf#page=1&amp;zoom=page-fit"
           title="UNC WBB Early Look Report (Sample)"></iframe>
       </div>
       <div class="portfolio-meta">
@@ -62,7 +62,7 @@ excerpt: "Selected PDF deliverables; scouting reports and analytics work."
     <a class="portfolio-card" href="/assets/pdf/UNC%20WBB%20Postgame%20Report_Rotation%20Impact%20Analysis%20%28Sample%29.pdf" target="_blank" rel="noopener">
       <div class="portfolio-thumb">
         <iframe class="portfolio-iframe"
-          src="/assets/pdf/UNC%20WBB%20Postgame%20Report_Rotation%20Impact%20Analysis%20%28Sample%29.pdf#page=1&amp;view=FitH"
+          src="/assets/pdf/UNC%20WBB%20Postgame%20Report_Rotation%20Impact%20Analysis%20%28Sample%29.pdf#page=1&amp;zoom=page-fit"
           title="UNC WBB Postgame Report_Rotation Impact Analysis (Sample)"></iframe>
       </div>
       <div class="portfolio-meta">
