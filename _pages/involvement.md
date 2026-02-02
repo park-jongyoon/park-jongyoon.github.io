@@ -7,7 +7,6 @@ classes: wide
 
 header:
   overlay_color: "#7BAFD4"
-  overlay_filter: "0.35"
 excerpt: "Campus leadership, analytics communities, and volunteering."
 ---
 
