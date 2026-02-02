@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 
 header:
-  overlay_color: "#0B1F3A"
+  overlay_color: "#7BAFD4"
   overlay_filter: "0.35"
 excerpt: "One-page resume; PDF preview and download."
 ---
