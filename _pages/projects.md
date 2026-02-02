@@ -6,8 +6,7 @@ author_profile: false
 classes: wide
 
 header:
-  overlay_color: "#0B1F3A"
-  overlay_filter: "0.35"
+  overlay_color: "#7BAFD4"
 excerpt: "Selected PDF deliverables; scouting reports and analytics work."
 ---
 
