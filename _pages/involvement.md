@@ -13,15 +13,11 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
 <div class="inv-container">
 
   <div class="inv-intro">
-    <p>
-      Selected campus involvement and volunteering experiences that reflect leadership, operations, and analytical curiosity.
-    </p>
   </div>
 
   <!-- Section 1 -->
   <section class="inv-section">
-    <h2>Campus & Leadership</h2>
-    <p class="inv-sub">Student leadership; conference and club operations.</p>
+    <h2>Campus Involvement</h2>
 
     <!-- Optional image (half-size feel) -->
     <!-- <img src="/assets/images/involvement/psu-conference.jpg" class="inv-photo" alt="Conference"> -->
@@ -29,7 +25,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     <div class="inv-item">
       <div class="inv-item-top">
         <h3>Penn State Sports Business Conference — Operation Coordinator</h3>
-        <span class="inv-date">Aug. 2022 – Aug. 2023</span>
+        <span class="inv-date">Aug 2022 – Aug 2023</span>
       </div>
       <ul>
         <li>Organized networking sessions involving 20+ sports organizations (e.g., Philadelphia Eagles, New York Mets).</li>
@@ -41,7 +37,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     <div class="inv-item">
       <div class="inv-item-top">
         <h3>Penn State Sports Business Club — Treasurer</h3>
-        <span class="inv-date">Aug. 2022 – Aug. 2023</span>
+        <span class="inv-date">Aug 2022 – Aug 2023</span>
       </div>
       <ul>
         <li>Oversaw club funds, managed donations, and coordinated fundraising events, including THON (Penn State’s largest philanthropic campaign supporting pediatric cancer patients).</li>
@@ -50,11 +46,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
         <li>Strengthened detail-oriented budgeting skills through cost estimation and accounting management for trips and fundraising.</li>
       </ul>
     </div>
-  </section>
 
-  <!-- Section 2 -->
-  <section class="inv-section">
-    <h2>Analytics & Technical Communities</h2>
     <p class="inv-sub">Student analytics work; coding workshops; web development contribution.</p>
 
     <!-- Optional image -->
@@ -63,7 +55,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     <div class="inv-item">
       <div class="inv-item-top">
         <h3>PSU Sports Analytics Club — Member</h3>
-        <span class="inv-date">Sep. 2021 – Aug. 2023</span>
+        <span class="inv-date">Sep 2021 – Aug 2023</span>
       </div>
       <ul>
         <li>Conducted in-depth analyses using R (NFL “Season Forecast” project; European football datasets); presented findings and insights.</li>
@@ -75,7 +67,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     <div class="inv-item">
       <div class="inv-item-top">
         <h3>Felicity — Management Team</h3>
-        <span class="inv-date">Sep. 2021 – May 2022</span>
+        <span class="inv-date">Sep 2021 – May 2022</span>
       </div>
       <ul>
         <li>Enhanced the club webpage by learning and applying React.js; contributed to site functionality.</li>
@@ -85,10 +77,9 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     </div>
   </section>
 
-  <!-- Section 3 -->
+  <!-- Section 2 -->
   <section class="inv-section">
     <h2>Volunteering</h2>
-    <p class="inv-sub">Community support; event operations; fundraising.</p>
 
     <!-- Optional image -->
     <!-- <img src="/assets/images/involvement/paws.jpg" class="inv-photo" alt="Volunteer"> -->
@@ -96,7 +87,7 @@ excerpt: "Campus leadership, analytics communities, and volunteering."
     <div class="inv-item">
       <div class="inv-item-top">
         <h3>Centre County PAWS — Volunteer / Fundraiser</h3>
-        <span class="inv-date">Feb. – Apr. 2023</span>
+        <span class="inv-date">Feb – Apr 2023</span>
       </div>
       <ul>
         <li>Organized a donation drive: collected 3,000 cans of pet food (≈ $2,000) for shelter animals.</li>
