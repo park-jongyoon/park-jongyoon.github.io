@@ -14,7 +14,7 @@ email: parkjongyoon0502@gmail.com
 description: "Personal Website for Jongyoon Park<br>Data Analytics & Statistics"
 github_username: park-jongyoon
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Hide RSS/Feed link (removes "FEED" in footer for many setups)
 atom_feed:
