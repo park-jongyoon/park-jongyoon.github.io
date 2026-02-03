@@ -49,7 +49,7 @@ footer:
       url: "https://www.linkedin.com/in/park-jongyoon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/park-jongyoon"
+      url: "https://github.com/park-jongyoon/Portfolio"
     - label: "Email (Personal)"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:parkjongyoon0502@gmail.com"
